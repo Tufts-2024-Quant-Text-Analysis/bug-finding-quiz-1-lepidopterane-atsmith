@@ -1,3 +1,4 @@
+pip==24.0
 annotated-types==0.7.0
 appnope==0.1.4
 asttokens==2.4.1
